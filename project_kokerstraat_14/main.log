@@ -1,0 +1,728 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.11)  20 DEC 2022 01:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./reports/current_report/main.tex
+(reports/current_report/main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-05-04>
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/sidecap\sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen141
+\SC@CAPWD=\dimen142
+\SC@tempdima=\dimen143
+\SC@tempdimb=\dimen144
+\c@SC@C=\count193
+\SC@BOX=\box50
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-05-17 v7.00q Hypertext links for LaTeX
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+))
+\c@section@level=\count194
+)
+\@linkdim=\dimen145
+\Hy@linkcounter=\count195
+\Hy@pagecounter=\count196
+ (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-05-17 v7.00q Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count197
+ (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-05-17 v7.00q Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4139.
+Package hyperref Info: Link nesting OFF on input line 4144.
+Package hyperref Info: Hyper index ON on input line 4147.
+Package hyperref Info: Plain pages OFF on input line 4154.
+Package hyperref Info: Backreferencing OFF on input line 4159.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4385.
+\c@Hy@tempcnt=\count198
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4723.
+\XeTeXLinkMargin=\dimen146
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count199
+\Field@Width=\dimen147
+\Fld@charsize=\dimen148
+Package hyperref Info: Hyper figures OFF on input line 6001.
+Package hyperref Info: Link nesting OFF on input line 6006.
+Package hyperref Info: Hyper index ON on input line 6009.
+Package hyperref Info: backreferencing OFF on input line 6016.
+Package hyperref Info: Link coloring OFF on input line 6021.
+Package hyperref Info: Link coloring with OCG OFF on input line 6026.
+Package hyperref Info: PDF/A mode OFF on input line 6031.
+LaTeX Info: Redefining \ref on input line 6078.
+LaTeX Info: Redefining \pageref on input line 6078.
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count266
+\c@Item=\count267
+\c@Hfootnote=\count268
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-05-17 v7.00q Hyperref driver for pdfTeX
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count269
+\c@bookmark@seq@number=\count270
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen149
+\captionmargin=\dimen150
+\caption@leftmargin=\dimen151
+\caption@rightmargin=\dimen152
+\caption@width=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count271
+\c@continuedfloat=\count272
+Package caption Info: hyperref package is loaded.
+Package caption Info: sidecap package is loaded.
+)
+\c@subfigure=\count273
+\c@subtable=\count274
+) (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 9.
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+\l__pdf_internal_box=\box51
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count276
+\scratchdimen=\dimen157
+\scratchbox=\box52
+\nofMPsegments=\count277
+\nofMParguments=\count278
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen158
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
+\everyMPtoPDFconversion=\toks20
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
+)
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+
+(C:\Users\joris\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+Package hyperref Info: Link coloring ON on input line 14.
+ (main.out) (main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+ (main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [1
+
+{C:/Users/joris/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (reports/cur
+rent_report/content/data.tex
+<reports/current_report/images/max_temperature.png, id=69, 647.41875pt x 542.02
+5pt>
+File: reports/current_report/images/max_temperature.png Graphic file (type png)
+
+<use reports/current_report/images/max_temperature.png>
+Package pdftex.def Info: reports/current_report/images/max_temperature.png  use
+d on input line 5.
+(pdftex.def)             Requested size: 170.77594pt x 142.97429pt.
+<reports/current_report/images/min_temperature.png, id=71, 863.225pt x 722.7pt>
+
+File: reports/current_report/images/min_temperature.png Graphic file (type png)
+
+<use reports/current_report/images/min_temperature.png>
+Package pdftex.def Info: reports/current_report/images/min_temperature.png  use
+d on input line 9.
+(pdftex.def)             Requested size: 170.77594pt x 142.97153pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 4--12
+[][] [] 
+ []
+
+Package placeins Info: No floats held, on input line 14.
+<reports/current_report/images/montage_temperature.jpg, id=72, 2055.68pt x 2168
+.1pt>
+File: reports/current_report/images/montage_temperature.jpg Graphic file (type 
+jpg)
+<use reports/current_report/images/montage_temperature.jpg>
+Package pdftex.def Info: reports/current_report/images/montage_temperature.jpg 
+ used on input line 17.
+(pdftex.def)             Requested size: 345.0pt x 363.84132pt.
+Package placeins Info: Must dump some floats on input line 20.
+[2
+Package placeins Info: Float barrier, from input line 14, processed on page 2, 
+lands on page 2. 
+Package placeins Info: Float barrier, from input line 20, processed on page 2, 
+lands on page 2. 
+ <./reports/current_report/images/max_temperature.png> <./reports/current_repor
+t/images/min_temperature.png>]
+Package placeins Info: Check again: on input line 20.
+Package placeins Info: No floats held, on input line 20.
+<reports/current_report/images/max_decibel.png, id=82, 647.41875pt x 542.025pt>
+
+File: reports/current_report/images/max_decibel.png Graphic file (type png)
+<use reports/current_report/images/max_decibel.png>
+Package pdftex.def Info: reports/current_report/images/max_decibel.png  used on
+ input line 25.
+(pdftex.def)             Requested size: 170.77594pt x 142.97429pt.
+<reports/current_report/images/min_decibel.png, id=83, 647.41875pt x 542.025pt>
+
+File: reports/current_report/images/min_decibel.png Graphic file (type png)
+<use reports/current_report/images/min_decibel.png>
+Package pdftex.def Info: reports/current_report/images/min_decibel.png  used on
+ input line 29.
+(pdftex.def)             Requested size: 170.77594pt x 142.97429pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 24--32
+[][] [] 
+ []
+
+Package placeins Info: Must dump some floats on input line 34.
+[3
+Package placeins Info: Float barrier, from input line 20, processed on page 3, 
+lands on page 3. 
+Package placeins Info: Float barrier, from input line 34, processed on page 3, 
+lands on page 3. 
+ <./reports/current_report/images/montage_temperature.jpg>]
+Package placeins Info: Check again: on input line 34.
+Package placeins Info: No floats held, on input line 34.
+<reports/current_report/images/montage_decibel.jpg, id=89, 2698.08pt x 2746.26p
+t>
+File: reports/current_report/images/montage_decibel.jpg Graphic file (type jpg)
+
+<use reports/current_report/images/montage_decibel.jpg>
+Package pdftex.def Info: reports/current_report/images/montage_decibel.jpg  use
+d on input line 37.
+(pdftex.def)             Requested size: 345.0pt x 351.1597pt.
+Package placeins Info: Must dump some floats on input line 40.
+ [4
+Package placeins Info: Float barrier, from input line 34, processed on page 4, 
+lands on page 4. 
+Package placeins Info: Float barrier, from input line 40, processed on page 4, 
+lands on page 4. 
+ <./reports/current_report/images/max_decibel.png> <./reports/current_report/im
+ages/min_decibel.png>]
+Package placeins Info: Check again: on input line 40.
+Package placeins Info: No floats held, on input line 40.
+
+
+LaTeX Warning: File `reports/current_report/images/max_humidity.png' not found 
+on input line 45.
+
+
+! Package pdftex.def Error: File `reports/current_report/images/max_humidity.pn
+g' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...ts/current_report/images/max_humidity.png}
+                                                  
+? 
+
+LaTeX Warning: File `reports/current_report/images/min_humidity.png' not found 
+on input line 49.
+
+
+! Package pdftex.def Error: File `reports/current_report/images/min_humidity.pn
+g' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 ...ts/current_report/images/min_humidity.png}
+                                                  
+? 
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 44--52
+[][] [] 
+ []
+
+Package placeins Info: Must dump some floats on input line 54.
+[5
+Package placeins Info: Float barrier, from input line 40, processed on page 5, 
+lands on page 5. 
+Package placeins Info: Float barrier, from input line 54, processed on page 5, 
+lands on page 5. 
+ <./reports/current_report/images/montage_decibel.jpg>]
+Package placeins Info: Check again: on input line 54.
+Package placeins Info: No floats held, on input line 54.
+
+
+LaTeX Warning: File `reports/current_report/images/montage_humidity.jpg' not fo
+und on input line 57.
+
+
+! Package pdftex.def Error: File `reports/current_report/images/montage_humidit
+y.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ...urrent_report/images/montage_humidity.jpg}
+                                                  
+? 
+Package placeins Info: Must dump some floats on input line 60.
+[6
+Package placeins Info: Float barrier, from input line 54, processed on page 6, 
+lands on page 6. 
+Package placeins Info: Float barrier, from input line 60, processed on page 6, 
+lands on page 6. 
+]
+Package placeins Info: Check again: on input line 60.
+Package placeins Info: No floats held, on input line 60.
+) (reports/current_report/content/graph.tex
+<reports/current_report/images/max_graph_temperature.png, id=110, 223.58531pt x
+ 213.04594pt>
+File: reports/current_report/images/max_graph_temperature.png Graphic file (typ
+e png)
+<use reports/current_report/images/max_graph_temperature.png>
+Package pdftex.def Info: reports/current_report/images/max_graph_temperature.pn
+g  used on input line 4.
+(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
+<reports/current_report/images/min_graph_temperature.png, id=111, 223.58531pt x
+ 213.04594pt>
+File: reports/current_report/images/min_graph_temperature.png Graphic file (typ
+e png)
+<use reports/current_report/images/min_graph_temperature.png>
+Package pdftex.def Info: reports/current_report/images/min_graph_temperature.pn
+g  used on input line 8.
+(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
+<reports/current_report/images/average_graph_temperature.png, id=112, 223.58531
+pt x 213.04594pt>
+File: reports/current_report/images/average_graph_temperature.png Graphic file 
+(type png)
+<use reports/current_report/images/average_graph_temperature.png>
+Package pdftex.def Info: reports/current_report/images/average_graph_temperatur
+e.png  used on input line 12.
+(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
+Package placeins Info: Must dump some floats on input line 17.
+ [7
+Package placeins Info: Float barrier, from input line 60, processed on page 7, 
+lands on page 7. 
+Package placeins Info: Float barrier, from input line 17, processed on page 7, 
+lands on page 7. 
+]
+Package placeins Info: Check again: on input line 17.
+Package placeins Info: No floats held, on input line 17.
+<reports/current_report/images/combined_graph_temperature.png, id=119, 223.5853
+1pt x 213.04594pt>
+File: reports/current_report/images/combined_graph_temperature.png Graphic file
+ (type png)
+<use reports/current_report/images/combined_graph_temperature.png>
+Package pdftex.def Info: reports/current_report/images/combined_graph_temperatu
+re.png  used on input line 19.
+(pdftex.def)             Requested size: 207.0021pt x 197.2497pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[][]\OT1/cmr/m/n/10 : |vec-tor-field
+ []
+
+Package placeins Info: No floats held, on input line 22.
+<reports/current_report/images/max_graph_decibel.png, id=120, 223.58531pt x 213
+.04594pt>
+File: reports/current_report/images/max_graph_decibel.png Graphic file (type pn
+g)
+<use reports/current_report/images/max_graph_decibel.png>
+Package pdftex.def Info: reports/current_report/images/max_graph_decibel.png  u
+sed on input line 26.
+(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
+<reports/current_report/images/min_graph_decibel.png, id=121, 223.58531pt x 213
+.04594pt>
+File: reports/current_report/images/min_graph_decibel.png Graphic file (type pn
+g)
+<use reports/current_report/images/min_graph_decibel.png>
+Package pdftex.def Info: reports/current_report/images/min_graph_decibel.png  u
+sed on input line 30.
+(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
+<reports/current_report/images/average_graph_decibel.png, id=122, 223.58531pt x
+ 213.04594pt>
+File: reports/current_report/images/average_graph_decibel.png Graphic file (typ
+e png)
+<use reports/current_report/images/average_graph_decibel.png>
+Package pdftex.def Info: reports/current_report/images/average_graph_decibel.pn
+g  used on input line 34.
+(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
+Package placeins Info: Must dump some floats on input line 39.
+[8
+Package placeins Info: Float barrier, from input line 17, processed on page 8, 
+lands on page 8. 
+Package placeins Info: Float barrier, from input line 22, processed on page 8, 
+lands on page 8. 
+Package placeins Info: Float barrier, from input line 39, processed on page 8, 
+lands on page 8. 
+ <./reports/current_report/images/max_graph_temperature.png> <./reports/current
+_report/images/min_graph_temperature.png> <./reports/current_report/images/aver
+age_graph_temperature.png> <./reports/current_report/images/combined_graph_temp
+erature.png (PNG copy)>]
+Package placeins Info: Check again: on input line 39.
+Package placeins Info: No floats held, on input line 39.
+<reports/current_report/images/combined_graph_decibel.png, id=129, 223.58531pt 
+x 213.04594pt>
+File: reports/current_report/images/combined_graph_decibel.png Graphic file (ty
+pe png)
+<use reports/current_report/images/combined_graph_decibel.png>
+Package pdftex.def Info: reports/current_report/images/combined_graph_decibel.p
+ng  used on input line 41.
+(pdftex.def)             Requested size: 207.0021pt x 197.2497pt.
+
+Underfull \hbox (badness 3954) in paragraph at lines 43--43
+[][]\OT1/cmr/m/n/10 : |vec-tor-field
+ []
+
+Package placeins Info: No floats held, on input line 44.
+
+LaTeX Warning: File `reports/current_report/images/max_graph_humidity.png' not 
+found on input line 48.
+
+
+! Package pdftex.def Error: File `reports/current_report/images/max_graph_humid
+ity.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 ...rent_report/images/max_graph_humidity.png}
+                                                  
+? 
+
+LaTeX Warning: File `reports/current_report/images/min_graph_humidity.png' not 
+found on input line 52.
+
+
+! Package pdftex.def Error: File `reports/current_report/images/min_graph_humid
+ity.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...rent_report/images/min_graph_humidity.png}
+                                                  
+? 
+
+LaTeX Warning: File `reports/current_report/images/average_graph_humidity.png' 
+not found on input line 56.
+
+
+! Package pdftex.def Error: File `reports/current_report/images/average_graph_h
+umidity.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ..._report/images/average_graph_humidity.png}
+                                                  
+? 
+Package placeins Info: Must dump some floats on input line 61.
+[9
+Package placeins Info: Float barrier, from input line 39, processed on page 9, 
+lands on page 9. 
+Package placeins Info: Float barrier, from input line 44, processed on page 9, 
+lands on page 9. 
+Package placeins Info: Float barrier, from input line 61, processed on page 9, 
+lands on page 9. 
+ <./reports/current_report/images/max_graph_decibel.png> <./reports/current_rep
+ort/images/min_graph_decibel.png> <./reports/current_report/images/average_grap
+h_decibel.png> <./reports/current_report/images/combined_graph_decibel.png (PNG
+ copy)>]
+Package placeins Info: Check again: on input line 61.
+Package placeins Info: No floats held, on input line 61.
+
+
+LaTeX Warning: File `reports/current_report/images/combined_graph_humidity.png'
+ not found on input line 63.
+
+
+! Package pdftex.def Error: File `reports/current_report/images/combined_graph_
+humidity.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...report/images/combined_graph_humidity.png}
+                                                  
+? 
+
+Underfull \hbox (badness 3954) in paragraph at lines 65--65
+[][]\OT1/cmr/m/n/10 : |vec-tor-field
+ []
+
+Package placeins Info: No floats held, on input line 66.
+) (reports/current_report/content/additional_files.tex)
+(reports/current_report/content/contact.tex)
+Overfull \hbox (5.97287pt too wide) in paragraph at lines 1--26
+\OT1/cmr/m/n/10 for any ques-tions or in-quiries, please con-tact Joris Put-te-
+neers on ++032497371892
+ []
+
+[10
+Package placeins Info: Float barrier, from input line 61, processed on page 10,
+ lands on page 10. 
+Package placeins Info: Float barrier, from input line 66, processed on page 10,
+ lands on page 10. 
+] (main.aux)
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D90F2959217147BFD8550EA7642C5766;1044.
+ ) 
+Here is how much of TeX's memory you used:
+ 10393 strings out of 478614
+ 188294 string characters out of 2843122
+ 452130 words of memory out of 3000000
+ 28337 multiletter control sequences out of 15000+600000
+ 474316 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,10n,77p,362b,563s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\joris\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/joris/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/joris/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/joris/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (10 pages, 4778796 bytes).
+PDF statistics:
+ 187 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 159 words of extra memory for PDF output out of 10000 (max. 10000000)
+
