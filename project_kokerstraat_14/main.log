@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.11)  20 DEC 2022 01:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.11)  22 DEC 2022 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -339,9 +339,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 16.
  (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
+(Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 2.
+(Font)              <5> on input line 3.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
@@ -349,204 +349,92 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/joris/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (reports/cur
-rent_report/content/data.tex
-<reports/current_report/images/max_temperature.png, id=69, 647.41875pt x 542.02
-5pt>
-File: reports/current_report/images/max_temperature.png Graphic file (type png)
+rent_report/content/contact.tex)
+Overfull \hbox (5.97287pt too wide) in paragraph at lines 1--20
+\OT1/cmr/m/n/10 for any ques-tions or in-quiries, please con-tact Joris Put-te-
+neers on ++032497371892
+ []
 
-<use reports/current_report/images/max_temperature.png>
-Package pdftex.def Info: reports/current_report/images/max_temperature.png  use
-d on input line 5.
+(reports/current_report/content/data.tex
+<reports/current_report/images/max_decibel.png, id=49, 647.41875pt x 542.025pt>
+
+File: reports/current_report/images/max_decibel.png Graphic file (type png)
+<use reports/current_report/images/max_decibel.png>
+Package pdftex.def Info: reports/current_report/images/max_decibel.png  used on
+ input line 5.
 (pdftex.def)             Requested size: 170.77594pt x 142.97429pt.
-<reports/current_report/images/min_temperature.png, id=71, 863.225pt x 722.7pt>
+<reports/current_report/images/min_decibel.png, id=51, 647.41875pt x 542.025pt>
 
-File: reports/current_report/images/min_temperature.png Graphic file (type png)
-
-<use reports/current_report/images/min_temperature.png>
-Package pdftex.def Info: reports/current_report/images/min_temperature.png  use
-d on input line 9.
-(pdftex.def)             Requested size: 170.77594pt x 142.97153pt.
+File: reports/current_report/images/min_decibel.png Graphic file (type png)
+<use reports/current_report/images/min_decibel.png>
+Package pdftex.def Info: reports/current_report/images/min_decibel.png  used on
+ input line 9.
+(pdftex.def)             Requested size: 170.77594pt x 142.97429pt.
 
 Overfull \hbox (2.22221pt too wide) in paragraph at lines 4--12
 [][] [] 
  []
 
 Package placeins Info: No floats held, on input line 14.
-<reports/current_report/images/montage_temperature.jpg, id=72, 2055.68pt x 2168
-.1pt>
-File: reports/current_report/images/montage_temperature.jpg Graphic file (type 
-jpg)
-<use reports/current_report/images/montage_temperature.jpg>
-Package pdftex.def Info: reports/current_report/images/montage_temperature.jpg 
- used on input line 17.
-(pdftex.def)             Requested size: 345.0pt x 363.84132pt.
+<reports/current_report/images/montage_decibel.jpg, id=52, 2698.08pt x 2746.26p
+t>
+File: reports/current_report/images/montage_decibel.jpg Graphic file (type jpg)
+
+<use reports/current_report/images/montage_decibel.jpg>
+Package pdftex.def Info: reports/current_report/images/montage_decibel.jpg  use
+d on input line 17.
+(pdftex.def)             Requested size: 345.0pt x 351.1597pt.
 Package placeins Info: Must dump some floats on input line 20.
 [2
 Package placeins Info: Float barrier, from input line 14, processed on page 2, 
 lands on page 2. 
 Package placeins Info: Float barrier, from input line 20, processed on page 2, 
 lands on page 2. 
- <./reports/current_report/images/max_temperature.png> <./reports/current_repor
-t/images/min_temperature.png>]
-Package placeins Info: Check again: on input line 20.
-Package placeins Info: No floats held, on input line 20.
-<reports/current_report/images/max_decibel.png, id=82, 647.41875pt x 542.025pt>
-
-File: reports/current_report/images/max_decibel.png Graphic file (type png)
-<use reports/current_report/images/max_decibel.png>
-Package pdftex.def Info: reports/current_report/images/max_decibel.png  used on
- input line 25.
-(pdftex.def)             Requested size: 170.77594pt x 142.97429pt.
-<reports/current_report/images/min_decibel.png, id=83, 647.41875pt x 542.025pt>
-
-File: reports/current_report/images/min_decibel.png Graphic file (type png)
-<use reports/current_report/images/min_decibel.png>
-Package pdftex.def Info: reports/current_report/images/min_decibel.png  used on
- input line 29.
-(pdftex.def)             Requested size: 170.77594pt x 142.97429pt.
-
-Overfull \hbox (2.22221pt too wide) in paragraph at lines 24--32
-[][] [] 
- []
-
-Package placeins Info: Must dump some floats on input line 34.
-[3
-Package placeins Info: Float barrier, from input line 20, processed on page 3, 
-lands on page 3. 
-Package placeins Info: Float barrier, from input line 34, processed on page 3, 
-lands on page 3. 
- <./reports/current_report/images/montage_temperature.jpg>]
-Package placeins Info: Check again: on input line 34.
-Package placeins Info: No floats held, on input line 34.
-<reports/current_report/images/montage_decibel.jpg, id=89, 2698.08pt x 2746.26p
-t>
-File: reports/current_report/images/montage_decibel.jpg Graphic file (type jpg)
-
-<use reports/current_report/images/montage_decibel.jpg>
-Package pdftex.def Info: reports/current_report/images/montage_decibel.jpg  use
-d on input line 37.
-(pdftex.def)             Requested size: 345.0pt x 351.1597pt.
-Package placeins Info: Must dump some floats on input line 40.
- [4
-Package placeins Info: Float barrier, from input line 34, processed on page 4, 
-lands on page 4. 
-Package placeins Info: Float barrier, from input line 40, processed on page 4, 
-lands on page 4. 
  <./reports/current_report/images/max_decibel.png> <./reports/current_report/im
 ages/min_decibel.png>]
-Package placeins Info: Check again: on input line 40.
-Package placeins Info: No floats held, on input line 40.
-
-
-LaTeX Warning: File `reports/current_report/images/max_humidity.png' not found 
-on input line 45.
-
-
-! Package pdftex.def Error: File `reports/current_report/images/max_humidity.pn
-g' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 ...ts/current_report/images/max_humidity.png}
-                                                  
-? 
-
-LaTeX Warning: File `reports/current_report/images/min_humidity.png' not found 
-on input line 49.
-
-
-! Package pdftex.def Error: File `reports/current_report/images/min_humidity.pn
-g' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 ...ts/current_report/images/min_humidity.png}
-                                                  
-? 
-
-Overfull \hbox (2.22221pt too wide) in paragraph at lines 44--52
-[][] [] 
- []
-
-Package placeins Info: Must dump some floats on input line 54.
-[5
-Package placeins Info: Float barrier, from input line 40, processed on page 5, 
-lands on page 5. 
-Package placeins Info: Float barrier, from input line 54, processed on page 5, 
-lands on page 5. 
- <./reports/current_report/images/montage_decibel.jpg>]
-Package placeins Info: Check again: on input line 54.
-Package placeins Info: No floats held, on input line 54.
-
-
-LaTeX Warning: File `reports/current_report/images/montage_humidity.jpg' not fo
-und on input line 57.
-
-
-! Package pdftex.def Error: File `reports/current_report/images/montage_humidit
-y.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 ...urrent_report/images/montage_humidity.jpg}
-                                                  
-? 
-Package placeins Info: Must dump some floats on input line 60.
-[6
-Package placeins Info: Float barrier, from input line 54, processed on page 6, 
-lands on page 6. 
-Package placeins Info: Float barrier, from input line 60, processed on page 6, 
-lands on page 6. 
-]
-Package placeins Info: Check again: on input line 60.
-Package placeins Info: No floats held, on input line 60.
+Package placeins Info: Check again: on input line 20.
+Package placeins Info: No floats held, on input line 20.
 ) (reports/current_report/content/graph.tex
-<reports/current_report/images/max_graph_temperature.png, id=110, 223.58531pt x
- 213.04594pt>
-File: reports/current_report/images/max_graph_temperature.png Graphic file (typ
-e png)
-<use reports/current_report/images/max_graph_temperature.png>
-Package pdftex.def Info: reports/current_report/images/max_graph_temperature.pn
-g  used on input line 4.
+<reports/current_report/images/max_graph_decibel.png, id=64, 223.58531pt x 213.
+04594pt>
+File: reports/current_report/images/max_graph_decibel.png Graphic file (type pn
+g)
+<use reports/current_report/images/max_graph_decibel.png>
+Package pdftex.def Info: reports/current_report/images/max_graph_decibel.png  u
+sed on input line 4.
 (pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
-<reports/current_report/images/min_graph_temperature.png, id=111, 223.58531pt x
- 213.04594pt>
-File: reports/current_report/images/min_graph_temperature.png Graphic file (typ
-e png)
-<use reports/current_report/images/min_graph_temperature.png>
-Package pdftex.def Info: reports/current_report/images/min_graph_temperature.pn
-g  used on input line 8.
+<reports/current_report/images/min_graph_decibel.png, id=65, 223.58531pt x 213.
+04594pt>
+File: reports/current_report/images/min_graph_decibel.png Graphic file (type pn
+g)
+<use reports/current_report/images/min_graph_decibel.png>
+Package pdftex.def Info: reports/current_report/images/min_graph_decibel.png  u
+sed on input line 8.
 (pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
-<reports/current_report/images/average_graph_temperature.png, id=112, 223.58531
-pt x 213.04594pt>
-File: reports/current_report/images/average_graph_temperature.png Graphic file 
-(type png)
-<use reports/current_report/images/average_graph_temperature.png>
-Package pdftex.def Info: reports/current_report/images/average_graph_temperatur
-e.png  used on input line 12.
+<reports/current_report/images/average_graph_decibel.png, id=66, 223.58531pt x 
+213.04594pt>
+File: reports/current_report/images/average_graph_decibel.png Graphic file (typ
+e png)
+<use reports/current_report/images/average_graph_decibel.png>
+Package pdftex.def Info: reports/current_report/images/average_graph_decibel.pn
+g  used on input line 12.
 (pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
 Package placeins Info: Must dump some floats on input line 17.
- [7
-Package placeins Info: Float barrier, from input line 60, processed on page 7, 
-lands on page 7. 
-Package placeins Info: Float barrier, from input line 17, processed on page 7, 
-lands on page 7. 
-]
+ [3
+Package placeins Info: Float barrier, from input line 20, processed on page 3, 
+lands on page 3. 
+Package placeins Info: Float barrier, from input line 17, processed on page 3, 
+lands on page 3. 
+ <./reports/current_report/images/montage_decibel.jpg>]
 Package placeins Info: Check again: on input line 17.
 Package placeins Info: No floats held, on input line 17.
-<reports/current_report/images/combined_graph_temperature.png, id=119, 223.5853
-1pt x 213.04594pt>
-File: reports/current_report/images/combined_graph_temperature.png Graphic file
- (type png)
-<use reports/current_report/images/combined_graph_temperature.png>
-Package pdftex.def Info: reports/current_report/images/combined_graph_temperatu
-re.png  used on input line 19.
+<reports/current_report/images/combined_graph_decibel.png, id=72, 223.58531pt x
+ 213.04594pt>
+File: reports/current_report/images/combined_graph_decibel.png Graphic file (ty
+pe png)
+<use reports/current_report/images/combined_graph_decibel.png>
+Package pdftex.def Info: reports/current_report/images/combined_graph_decibel.p
+ng  used on input line 19.
 (pdftex.def)             Requested size: 207.0021pt x 197.2497pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--21
@@ -554,163 +442,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--21
  []
 
 Package placeins Info: No floats held, on input line 22.
-<reports/current_report/images/max_graph_decibel.png, id=120, 223.58531pt x 213
-.04594pt>
-File: reports/current_report/images/max_graph_decibel.png Graphic file (type pn
-g)
-<use reports/current_report/images/max_graph_decibel.png>
-Package pdftex.def Info: reports/current_report/images/max_graph_decibel.png  u
-sed on input line 26.
-(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
-<reports/current_report/images/min_graph_decibel.png, id=121, 223.58531pt x 213
-.04594pt>
-File: reports/current_report/images/min_graph_decibel.png Graphic file (type pn
-g)
-<use reports/current_report/images/min_graph_decibel.png>
-Package pdftex.def Info: reports/current_report/images/min_graph_decibel.png  u
-sed on input line 30.
-(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
-<reports/current_report/images/average_graph_decibel.png, id=122, 223.58531pt x
- 213.04594pt>
-File: reports/current_report/images/average_graph_decibel.png Graphic file (typ
-e png)
-<use reports/current_report/images/average_graph_decibel.png>
-Package pdftex.def Info: reports/current_report/images/average_graph_decibel.pn
-g  used on input line 34.
-(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
-Package placeins Info: Must dump some floats on input line 39.
-[8
-Package placeins Info: Float barrier, from input line 17, processed on page 8, 
-lands on page 8. 
-Package placeins Info: Float barrier, from input line 22, processed on page 8, 
-lands on page 8. 
-Package placeins Info: Float barrier, from input line 39, processed on page 8, 
-lands on page 8. 
- <./reports/current_report/images/max_graph_temperature.png> <./reports/current
-_report/images/min_graph_temperature.png> <./reports/current_report/images/aver
-age_graph_temperature.png> <./reports/current_report/images/combined_graph_temp
-erature.png (PNG copy)>]
-Package placeins Info: Check again: on input line 39.
-Package placeins Info: No floats held, on input line 39.
-<reports/current_report/images/combined_graph_decibel.png, id=129, 223.58531pt 
-x 213.04594pt>
-File: reports/current_report/images/combined_graph_decibel.png Graphic file (ty
-pe png)
-<use reports/current_report/images/combined_graph_decibel.png>
-Package pdftex.def Info: reports/current_report/images/combined_graph_decibel.p
-ng  used on input line 41.
-(pdftex.def)             Requested size: 207.0021pt x 197.2497pt.
-
-Underfull \hbox (badness 3954) in paragraph at lines 43--43
-[][]\OT1/cmr/m/n/10 : |vec-tor-field
- []
-
-Package placeins Info: No floats held, on input line 44.
-
-LaTeX Warning: File `reports/current_report/images/max_graph_humidity.png' not 
-found on input line 48.
-
-
-! Package pdftex.def Error: File `reports/current_report/images/max_graph_humid
-ity.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 ...rent_report/images/max_graph_humidity.png}
-                                                  
-? 
-
-LaTeX Warning: File `reports/current_report/images/min_graph_humidity.png' not 
-found on input line 52.
-
-
-! Package pdftex.def Error: File `reports/current_report/images/min_graph_humid
-ity.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.52 ...rent_report/images/min_graph_humidity.png}
-                                                  
-? 
-
-LaTeX Warning: File `reports/current_report/images/average_graph_humidity.png' 
-not found on input line 56.
-
-
-! Package pdftex.def Error: File `reports/current_report/images/average_graph_h
-umidity.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.56 ..._report/images/average_graph_humidity.png}
-                                                  
-? 
-Package placeins Info: Must dump some floats on input line 61.
-[9
-Package placeins Info: Float barrier, from input line 39, processed on page 9, 
-lands on page 9. 
-Package placeins Info: Float barrier, from input line 44, processed on page 9, 
-lands on page 9. 
-Package placeins Info: Float barrier, from input line 61, processed on page 9, 
-lands on page 9. 
+) (reports/current_report/content/additional_files.tex) [4
+Package placeins Info: Float barrier, from input line 17, processed on page 4, 
+lands on page 4. 
+Package placeins Info: Float barrier, from input line 22, processed on page 4, 
+lands on page 4. 
  <./reports/current_report/images/max_graph_decibel.png> <./reports/current_rep
 ort/images/min_graph_decibel.png> <./reports/current_report/images/average_grap
 h_decibel.png> <./reports/current_report/images/combined_graph_decibel.png (PNG
- copy)>]
-Package placeins Info: Check again: on input line 61.
-Package placeins Info: No floats held, on input line 61.
-
-
-LaTeX Warning: File `reports/current_report/images/combined_graph_humidity.png'
- not found on input line 63.
-
-
-! Package pdftex.def Error: File `reports/current_report/images/combined_graph_
-humidity.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.63 ...report/images/combined_graph_humidity.png}
-                                                  
-? 
-
-Underfull \hbox (badness 3954) in paragraph at lines 65--65
-[][]\OT1/cmr/m/n/10 : |vec-tor-field
- []
-
-Package placeins Info: No floats held, on input line 66.
-) (reports/current_report/content/additional_files.tex)
-(reports/current_report/content/contact.tex)
-Overfull \hbox (5.97287pt too wide) in paragraph at lines 1--26
-\OT1/cmr/m/n/10 for any ques-tions or in-quiries, please con-tact Joris Put-te-
-neers on ++032497371892
- []
-
-[10
-Package placeins Info: Float barrier, from input line 61, processed on page 10,
- lands on page 10. 
-Package placeins Info: Float barrier, from input line 66, processed on page 10,
- lands on page 10. 
-] (main.aux)
+ copy)>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D90F2959217147BFD8550EA7642C5766;1044.
+(rerunfilecheck)             Checksum: F84B38CC9129DBAD1AE86CC115398D33;624.
  ) 
 Here is how much of TeX's memory you used:
- 10393 strings out of 478614
- 188294 string characters out of 2843122
- 452130 words of memory out of 3000000
- 28337 multiletter control sequences out of 15000+600000
- 474316 words of font info for 45 fonts, out of 8000000 for 9000
+ 10082 strings out of 478614
+ 172078 string characters out of 2843122
+ 449983 words of memory out of 3000000
+ 28077 multiletter control sequences out of 15000+600000
+ 474148 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,77p,362b,563s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,10n,77p,350b,563s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\joris\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -718,11 +469,10 @@ ic/amsfonts/cm/cmbx12.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/joris/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/joris/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/joris/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (10 pages, 4778796 bytes).
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on main.pdf (4 pages, 2608622 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 159 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
