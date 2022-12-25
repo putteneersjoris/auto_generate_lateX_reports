@@ -1,4 +1,9 @@
-def create_main(filename, sections, project_name, sensordata):
+from datetime import datetime,timezone, timedelta
+
+
+
+
+def create_main(filename, sections, project_name, sensordata, begindate, enddate):
     with open(filename, "w", encoding="utf8") as f:
         
         f.write("\\documentclass{article} \n")
@@ -29,7 +34,58 @@ def create_main(filename, sections, project_name, sensordata):
         title += "} \n"
         
         f.write(title)
-        f.write("\\date{5th of December 2022 - 12th of December 2022}  \n")
+
+        # calculate the date, and the current week
+        date_now_week = datetime.now().strftime("%V")
+        date_begin_week = datetime.utcfromtimestamp(begindate).strftime("%V")
+        date_end_week = datetime.utcfromtimestamp(enddate).strftime("%V")
+        currentweek = int(date_now_week) - int(date_begin_week)
+
+        
+        # calc the total amount of weeks that the project runs
+        a = datetime.utcfromtimestamp(begindate)
+        b = datetime.utcfromtimestamp(enddate)
+        delta = b - a
+        totalweek = round(delta.days/7) 
+        
+        # get current day
+        months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+        def get_day_extension(day):
+            extension= ''
+            day_extensions = {"1":"st ", "2":"nd ", "3":"rd "}
+            if day[0] == "0":
+                day = day.replace('0','') #values are 01, 04,22 etc.. we remove the first 0
+  
+            if day in day_extensions:
+                extension = day_extensions[day] #set the right extension 1st, 2nd, 3th etc
+            else:
+                extension = 'th '
+
+            return day + extension
+
+        today_day = datetime.now(timezone.utc).strftime("%d") 
+        today_month = datetime.now(timezone.utc).strftime("%m") 
+        today_year = datetime.now(timezone.utc).strftime("%Y")
+        today = get_day_extension(today_day) + "of " + months[int(today_month)-1] + " " + today_year
+
+        previous_date_utc = datetime.now(timezone.utc) - timedelta(days=7)
+        previous_date_day = previous_date_utc.strftime("%d") 
+        previous_date_month = previous_date_utc.strftime("%m") 
+        previous_date_year = previous_date_utc.strftime("%Y") 
+        previous_date =  get_day_extension(previous_date_day) + "of " + months[int(previous_date_month)-1] + " " + previous_date_year
+
+        begin_measuring_date = datetime.utcfromtimestamp(begindate).strftime("%d-%m-%Y")
+        end_measuring_date = datetime.utcfromtimestamp(enddate).strftime("%d-%m-%Y")
+
+        date = "\\date{" 
+        date += "start date "+ f"{begin_measuring_date} " + "\\\\"
+        date += f"week: {currentweek} /  "
+        date += f" {totalweek} "
+        date += "\\\\"
+        date += f" {previous_date} - {today} " + "\\\\"
+        date += "end date "+ f"{end_measuring_date} " 
+        date += "}\n"
+        f.write(date)
 
         f.write("\\begin{document}  \n")
         f.write("\\maketitle  \n")

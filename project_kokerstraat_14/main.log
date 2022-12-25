@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.11)  22 DEC 2022 21:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.11)  26 DEC 2022 00:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -339,9 +339,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 16.
  (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
+(Font)              <5> on input line 2.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
@@ -349,21 +349,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/joris/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (reports/cur
-rent_report/content/contact.tex)
-Overfull \hbox (5.97287pt too wide) in paragraph at lines 1--20
-\OT1/cmr/m/n/10 for any ques-tions or in-quiries, please con-tact Joris Put-te-
-neers on ++032497371892
- []
-
-(reports/current_report/content/data.tex
-<reports/current_report/images/max_decibel.png, id=49, 647.41875pt x 542.025pt>
+rent_report/content/data.tex
+<reports/current_report/images/max_decibel.png, id=59, 647.41875pt x 542.025pt>
 
 File: reports/current_report/images/max_decibel.png Graphic file (type png)
 <use reports/current_report/images/max_decibel.png>
 Package pdftex.def Info: reports/current_report/images/max_decibel.png  used on
  input line 5.
 (pdftex.def)             Requested size: 170.77594pt x 142.97429pt.
-<reports/current_report/images/min_decibel.png, id=51, 647.41875pt x 542.025pt>
+<reports/current_report/images/min_decibel.png, id=61, 647.41875pt x 542.025pt>
 
 File: reports/current_report/images/min_decibel.png Graphic file (type png)
 <use reports/current_report/images/min_decibel.png>
@@ -376,7 +370,7 @@ Overfull \hbox (2.22221pt too wide) in paragraph at lines 4--12
  []
 
 Package placeins Info: No floats held, on input line 14.
-<reports/current_report/images/montage_decibel.jpg, id=52, 2698.08pt x 2746.26p
+<reports/current_report/images/montage_decibel.jpg, id=62, 2698.08pt x 2746.26p
 t>
 File: reports/current_report/images/montage_decibel.jpg Graphic file (type jpg)
 
@@ -394,8 +388,56 @@ lands on page 2.
 ages/min_decibel.png>]
 Package placeins Info: Check again: on input line 20.
 Package placeins Info: No floats held, on input line 20.
+<reports/current_report/images/max_temperature.png, id=72, 647.41875pt x 542.02
+5pt>
+File: reports/current_report/images/max_temperature.png Graphic file (type png)
+
+<use reports/current_report/images/max_temperature.png>
+Package pdftex.def Info: reports/current_report/images/max_temperature.png  use
+d on input line 25.
+(pdftex.def)             Requested size: 170.77594pt x 142.97429pt.
+<reports/current_report/images/min_temperature.png, id=73, 863.225pt x 722.7pt>
+
+File: reports/current_report/images/min_temperature.png Graphic file (type png)
+
+<use reports/current_report/images/min_temperature.png>
+Package pdftex.def Info: reports/current_report/images/min_temperature.png  use
+d on input line 29.
+(pdftex.def)             Requested size: 170.77594pt x 142.97153pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 24--32
+[][] [] 
+ []
+
+Package placeins Info: Must dump some floats on input line 34.
+[3
+Package placeins Info: Float barrier, from input line 20, processed on page 3, 
+lands on page 3. 
+Package placeins Info: Float barrier, from input line 34, processed on page 3, 
+lands on page 3. 
+ <./reports/current_report/images/montage_decibel.jpg>]
+Package placeins Info: Check again: on input line 34.
+Package placeins Info: No floats held, on input line 34.
+<reports/current_report/images/montage_temperature.jpg, id=79, 2055.68pt x 2168
+.1pt>
+File: reports/current_report/images/montage_temperature.jpg Graphic file (type 
+jpg)
+<use reports/current_report/images/montage_temperature.jpg>
+Package pdftex.def Info: reports/current_report/images/montage_temperature.jpg 
+ used on input line 37.
+(pdftex.def)             Requested size: 345.0pt x 363.84132pt.
+Package placeins Info: Must dump some floats on input line 40.
+ [4
+Package placeins Info: Float barrier, from input line 34, processed on page 4, 
+lands on page 4. 
+Package placeins Info: Float barrier, from input line 40, processed on page 4, 
+lands on page 4. 
+ <./reports/current_report/images/max_temperature.png> <./reports/current_repor
+t/images/min_temperature.png>]
+Package placeins Info: Check again: on input line 40.
+Package placeins Info: No floats held, on input line 40.
 ) (reports/current_report/content/graph.tex
-<reports/current_report/images/max_graph_decibel.png, id=64, 223.58531pt x 213.
+<reports/current_report/images/max_graph_decibel.png, id=89, 223.58531pt x 213.
 04594pt>
 File: reports/current_report/images/max_graph_decibel.png Graphic file (type pn
 g)
@@ -403,7 +445,7 @@ g)
 Package pdftex.def Info: reports/current_report/images/max_graph_decibel.png  u
 sed on input line 4.
 (pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
-<reports/current_report/images/min_graph_decibel.png, id=65, 223.58531pt x 213.
+<reports/current_report/images/min_graph_decibel.png, id=90, 223.58531pt x 213.
 04594pt>
 File: reports/current_report/images/min_graph_decibel.png Graphic file (type pn
 g)
@@ -411,7 +453,7 @@ g)
 Package pdftex.def Info: reports/current_report/images/min_graph_decibel.png  u
 sed on input line 8.
 (pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
-<reports/current_report/images/average_graph_decibel.png, id=66, 223.58531pt x 
+<reports/current_report/images/average_graph_decibel.png, id=91, 223.58531pt x 
 213.04594pt>
 File: reports/current_report/images/average_graph_decibel.png Graphic file (typ
 e png)
@@ -420,15 +462,15 @@ Package pdftex.def Info: reports/current_report/images/average_graph_decibel.pn
 g  used on input line 12.
 (pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
 Package placeins Info: Must dump some floats on input line 17.
- [3
-Package placeins Info: Float barrier, from input line 20, processed on page 3, 
-lands on page 3. 
-Package placeins Info: Float barrier, from input line 17, processed on page 3, 
-lands on page 3. 
- <./reports/current_report/images/montage_decibel.jpg>]
+ [5
+Package placeins Info: Float barrier, from input line 40, processed on page 5, 
+lands on page 5. 
+Package placeins Info: Float barrier, from input line 17, processed on page 5, 
+lands on page 5. 
+ <./reports/current_report/images/montage_temperature.jpg>]
 Package placeins Info: Check again: on input line 17.
 Package placeins Info: No floats held, on input line 17.
-<reports/current_report/images/combined_graph_decibel.png, id=72, 223.58531pt x
+<reports/current_report/images/combined_graph_decibel.png, id=97, 223.58531pt x
  213.04594pt>
 File: reports/current_report/images/combined_graph_decibel.png Graphic file (ty
 pe png)
@@ -442,26 +484,85 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--21
  []
 
 Package placeins Info: No floats held, on input line 22.
-) (reports/current_report/content/additional_files.tex) [4
-Package placeins Info: Float barrier, from input line 17, processed on page 4, 
-lands on page 4. 
-Package placeins Info: Float barrier, from input line 22, processed on page 4, 
-lands on page 4. 
+<reports/current_report/images/max_graph_temperature.png, id=98, 223.58531pt x 
+213.04594pt>
+File: reports/current_report/images/max_graph_temperature.png Graphic file (typ
+e png)
+<use reports/current_report/images/max_graph_temperature.png>
+Package pdftex.def Info: reports/current_report/images/max_graph_temperature.pn
+g  used on input line 26.
+(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
+<reports/current_report/images/min_graph_temperature.png, id=99, 223.58531pt x 
+213.04594pt>
+File: reports/current_report/images/min_graph_temperature.png Graphic file (typ
+e png)
+<use reports/current_report/images/min_graph_temperature.png>
+Package pdftex.def Info: reports/current_report/images/min_graph_temperature.pn
+g  used on input line 30.
+(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
+<reports/current_report/images/average_graph_temperature.png, id=100, 223.58531
+pt x 213.04594pt>
+File: reports/current_report/images/average_graph_temperature.png Graphic file 
+(type png)
+<use reports/current_report/images/average_graph_temperature.png>
+Package pdftex.def Info: reports/current_report/images/average_graph_temperatur
+e.png  used on input line 34.
+(pdftex.def)             Requested size: 93.15031pt x 88.76024pt.
+Package placeins Info: Must dump some floats on input line 39.
+[6
+Package placeins Info: Float barrier, from input line 17, processed on page 6, 
+lands on page 6. 
+Package placeins Info: Float barrier, from input line 22, processed on page 6, 
+lands on page 6. 
+Package placeins Info: Float barrier, from input line 39, processed on page 6, 
+lands on page 6. 
  <./reports/current_report/images/max_graph_decibel.png> <./reports/current_rep
 ort/images/min_graph_decibel.png> <./reports/current_report/images/average_grap
 h_decibel.png> <./reports/current_report/images/combined_graph_decibel.png (PNG
- copy)>] (main.aux)
+ copy)>]
+Package placeins Info: Check again: on input line 39.
+Package placeins Info: No floats held, on input line 39.
+<reports/current_report/images/combined_graph_temperature.png, id=107, 223.5853
+1pt x 213.04594pt>
+File: reports/current_report/images/combined_graph_temperature.png Graphic file
+ (type png)
+<use reports/current_report/images/combined_graph_temperature.png>
+Package pdftex.def Info: reports/current_report/images/combined_graph_temperatu
+re.png  used on input line 41.
+(pdftex.def)             Requested size: 207.0021pt x 197.2497pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[][]\OT1/cmr/m/n/10 : |vec-tor-field
+ []
+
+Package placeins Info: No floats held, on input line 44.
+) (reports/current_report/content/additional_files.tex)
+(reports/current_report/content/contact.tex)
+Overfull \hbox (5.97287pt too wide) in paragraph at lines 1--26
+\OT1/cmr/m/n/10 for any ques-tions or in-quiries, please con-tact Joris Put-te-
+neers on ++032497371892
+ []
+
+[7
+Package placeins Info: Float barrier, from input line 39, processed on page 7, 
+lands on page 7. 
+Package placeins Info: Float barrier, from input line 44, processed on page 7, 
+lands on page 7. 
+ <./reports/current_report/images/max_graph_temperature.png> <./reports/current
+_report/images/min_graph_temperature.png> <./reports/current_report/images/aver
+age_graph_temperature.png> <./reports/current_report/images/combined_graph_temp
+erature.png (PNG copy)>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F84B38CC9129DBAD1AE86CC115398D33;624.
+(rerunfilecheck)             Checksum: 992F8BDCF4ABD758AD8ADFF8E69E6AFA;848.
  ) 
 Here is how much of TeX's memory you used:
- 10082 strings out of 478614
- 172078 string characters out of 2843122
- 449983 words of memory out of 3000000
- 28077 multiletter control sequences out of 15000+600000
+ 10143 strings out of 478614
+ 174893 string characters out of 2843122
+ 452113 words of memory out of 3000000
+ 28122 multiletter control sequences out of 15000+600000
  474148 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,77p,350b,563s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,10n,77p,362b,563s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\joris\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -470,9 +571,9 @@ ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/joris/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/joris/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on main.pdf (4 pages, 2608622 bytes).
+Output written on main.pdf (7 pages, 4759577 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 92 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
 

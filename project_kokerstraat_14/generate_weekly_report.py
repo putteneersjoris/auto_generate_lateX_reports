@@ -8,14 +8,17 @@ with open(report_json_file,'r') as report_file:
     jsonObj = json.load(report_file)
 
     for obj in jsonObj:
-        print(jsonObj[obj]["begin_measuring_date"]) # get begin_measuring_date
+        # print(jsonObj[obj]["begin_measuring_date"]) # get begin_measuring_date
    
 
         content =jsonObj[obj]["content"] #["data","graph","additional_files", "contact" ]
         data = jsonObj[obj]["data"]  #["temperature", "decibel", "humidity"]
+        begindate = jsonObj[obj]["begin_measuring_date"]
+        enddate = jsonObj[obj]["end_measuring_date"]
         project_name = obj
 
-        create_main("./reports/current_report/main.tex", content , obj, data)
+
+        create_main("./reports/current_report/main.tex", content , obj, data, begindate, enddate)
         create_data_section("./reports/current_report/content/data.tex", data)
         create_graph_section("./reports/current_report/content/graph.tex", data)
         create_contact_section("./reports/current_report/content/contact.tex")
