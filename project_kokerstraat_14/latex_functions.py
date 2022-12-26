@@ -14,26 +14,34 @@ def create_main(filename, sections, project_name, sensordata, begindate, enddate
         f.write("\\usepackage{subcaption} \n")
         f.write("\\usepackage[verbose]{placeins} \n")
         f.write("\\usepackage{subfiles} % Best loaded last in the preamble \n")
-        f.write("\\hypersetup{colorlinks=true, linkcolor=black, filecolor=blue, urlcolor=blue, pdfpagemode=FullScreen } \n")
+        f.write("\\hypersetup{colorlinks=true, linkcolor=black, filecolor=blue, urlcolor=blue} \n")
         f.write("\\urlstyle{same} \n")
         f.write("\\author{territory data | Joris Putteneers} \n")
 
         # make the procedurtal title
+ 
+        # make the content for the title dependatnt on the amount so that its grammar is correct
+        title_content =''
+        if len(sensordata) == 1:
+            title_content += sensordata[0]
+
+        if len(sensordata) == 2:
+            title_content += sensordata[0] + " and " +  sensordata[1]
+
+        if len(sensordata) >= 3:
+            title_content += sensordata[0]
+            for i in range(1,len(sensordata)-1):
+                title_content += ", " + sensordata[i] 
+            title_content +=" and " + sensordata[-1]
+        
+
         title = "\\title{"
         title += f"{project_name}" 
-        title += "\\\\ \\large weekly progress report: visualisation of {" 
+        title += '\\\\ \\large ' + 'weekly progress report: visualisation of ' + f"{title_content}"
+        title += "}"
+        f.write(title )
 
-        for i in range(0, len(sensordata)-1):
-            if i is not len(sensordata)-2:
-                title +=sensordata[i] + ', '
-            else:
-                title +=sensordata[i]
-
-        title += "} and "
-        title += sensordata[-1]
-        title += "} \n"
-        
-        f.write(title)
+        # f.write(title)
 
         # calculate the date, and the current week
         date_now_week = datetime.now().strftime("%V")
@@ -78,12 +86,12 @@ def create_main(filename, sections, project_name, sensordata, begindate, enddate
         end_measuring_date = datetime.utcfromtimestamp(enddate).strftime("%d-%m-%Y")
 
         date = "\\date{" 
-        date += "start date "+ f"{begin_measuring_date} " + "\\\\"
-        date += f"week: {currentweek} /  "
+        date += "project start date "+ f"{begin_measuring_date} " + "\\\\"
+        date += f"weekly report: {currentweek} /  "
         date += f" {totalweek} "
         date += "\\\\"
         date += f" {previous_date} - {today} " + "\\\\"
-        date += "end date "+ f"{end_measuring_date} " 
+        date += "project end date "+ f"{end_measuring_date} " 
         date += "}\n"
         f.write(date)
 

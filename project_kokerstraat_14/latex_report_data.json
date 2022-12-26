@@ -1,9 +1,8 @@
 {
     "kokerstraat 14": {
-        "begin_measuring_date": 1670801141,
+        "begin_measuring_date": 1660801141,
         "end_measuring_date": 1673479541,
-        "data": ["decibel", "temperature"],
+        "data": [ "temperature"],
         "content" : ["data","graph","additional_files", "contact"]
     }
-
 }
