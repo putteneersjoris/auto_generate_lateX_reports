@@ -7,6 +7,5 @@ for x in {1..2}; do pdflatex -output-directory=reports/current_report/ reports/c
 python rename_main.py
 # python send_weekly_report.py
 python send_weekly_report.py
-# rename folder structure
+# rename folder structure, just store it onder a different name so we dont lose it
 python rename_folder.py
-#rename folder structure
