@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.11)  26 DEC 2022 11:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.11)  26 DEC 2022 13:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -471,7 +471,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  10081 strings out of 478614
  172952 string characters out of 2843122
- 451066 words of memory out of 3000000
+ 451067 words of memory out of 3000000
  28077 multiletter control sequences out of 15000+600000
  474148 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -485,7 +485,7 @@ ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/joris/AppData/Local/Programs/MiKTeX
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/joris/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
 Output written on C:\Users\joris\Downloads\latex_compile_test\project_kokerstra
-at_14\reports\current_report\main.pdf (4 pages, 2240616 bytes).
+at_14\reports\current_report\main.pdf (4 pages, 2240617 bytes).
 PDF statistics:
  116 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
